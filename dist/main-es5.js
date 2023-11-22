@@ -1249,8 +1249,8 @@
         USERDATA_KEY: 'authf649fc9a5f55',
         isMockEnabled: false,
         apiUrl: 'api',
-        URL_BACKEND: 'http://galaapi.farmacori.net',
-        URL_SERVICIOS: 'http://galaapi.farmacori.net/api',
+        URL_BACKEND: 'https://www.galaapi.farmacori.net/',
+        URL_SERVICIOS: 'https://www.galaapi.farmacori.net/api',
         URL_FROTEND: 'https://www.galaadmi.farmacori.net/'
       };
       /*
